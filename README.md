@@ -5,7 +5,7 @@ Based on all the parameters he can water his crop by controlling the motors usin
 Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere.
  Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil
  
- for the Project development environment is very important for the succes of project.
+ for the Project development environment is very important for the success of project.
 1. Create your GitHub Account, Install GIT tool in your PC/Laptop
 2. Create the Project Scope in the Document Writer
 3. Install Slack App, Join your team to the Project Channel
