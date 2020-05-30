@@ -12,7 +12,7 @@ Even if the farmer is not present near his crop he can water his crop by control
 4. Choose the right IDE for Coding, Install the same in your Laptop
 5. Go through the Project Management Dashboard
 
- The main goals of this project is as follows-
+ The main goals of this project are as follows-
 1.capability to address specific needs.
 2. Automated control of motors in the field.
 3. A simple user interface to be handeled even by the undereducated farmers.
