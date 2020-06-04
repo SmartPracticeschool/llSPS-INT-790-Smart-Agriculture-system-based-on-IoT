@@ -1,0 +1,80 @@
+(PROJECT SUMMARY)
+Smart Agriculture System based on IoT can monitor soil moisture and climatic conditions to grow and yield a good crop.
+The farmer can also get the realtime weather forecasting data by using external platforms like Open Weather API.
+Farmer is provided a mobile app using which he can monitor the temperature,humidity and soil moisture parameters along with weather forecasting details.
+Based on all the parameters he can water his crop by controlling the motors using the mobile application.
+Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere.
+ Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil
+
+(PROJECT REQUIREMENT)
+Create IBM Cloud Account
+Install The Nodered Locally 
+Create a device in IBM Watson IoT Platform
+Install Python IDE
+Connect The IOT Simulator To Watson IOT Platform 
+Configure The Nodered To Get The Data From IBM IOT Platform And Open Weather API
+Install The Required Nodes In Your Nodered 
+Connect To Your IBM IOT Device To Get The Simulator Data
+Configure Your Nodered To Get The Weather Forecasting Data Using Http Requests
+Configure The Nodes To Display The Weather Parameters Which We Got Form IOT Simulator And Open Weather API In UI
+Building A Web App :-
+Configure The Nodes For Creating Buttons And Sending Commands To IOT Platform
+Configure Your Device To Receive The Data From The Web Application And Control Your Motors
+Write A Python Code To Subscribe To IBM IOT Platform And Get The Commands
+
+(FUNCTIONAL REQUIREMENT)
+1.capability to address specific needs.
+2. Automated control of motors in the field.
+ of farmers belonging to a particular geographical areas.
+3. A simple user interface to be handeled even by the undereducated farmers.
+4. Automated and simple to use method for processing of data.
+
+(TECHNICAL REQUIREMENTS)
+you must need to create an acoount on ibm cloud platform so that you can connect with ibm watson iot platform to create a device to install nodes on nodered and to make nodeed flow .
+iot simulator sensors should be connected with  ibm iot watson platform device and connect the device with ibm nodes on node red to get the percentage values on nodered dashboard. To get the API values connect with open weatrher api platform through which we get a url to receive the data on mobile of particular area or city.
+For controlling motor buttons we required python ide3 with pycharm to write a code and get the staus of motors whether it is on or off.
+
+(software requirements)
+IBM cloud platform
+Nodered and Nodered dashboard
+IBM iot watson platform
+IBM iot simulators
+open weather api platform
+paython ide3 with pycharm
+
+(project deliverables)
+The farmer get the realtime weather forecasting data by using external platforms like Open Weather API.
+Farmers by using a mobile app using  can monitor the temperature,humidity and soil moisture parameters along with weather forecasting details.
+Based on all the parameters he can water his crop by controlling the motors using the mobile application.
+Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere.
+(project schedule)
+Project Scope, Schedule, Team & Deliverables
+Duration: 1 Days
+Setup The Development Environment
+Duration: 1 Days
+Create IBM Cloud Account
+Duration: 0.5 Days
+Create IBM Cloud Account
+Duration: 0.5 Days
+Install The Nodered Locally.
+Duration: 1 Days
+IBM Watson IoT Platform.
+Duration: 0.2 Hrs
+Connect The IOT Simulator To Watson IOT Platform
+Duration: 0.5 Hrs
+Connect The IOT Simulator To Watson IOT Platform
+Duration: 0.5 Hrs
+Write A Python Code To Subscribe To IBM IOT Platform And Get The Commands
+Duration: 2 Hrs
+Connect To Your IBM IOT Device To Get The Simulator Data
+Duration: 2 Hrs
+Create An Account In Open Weather API And Configure Your Open Weather API Platform
+Duration: 1 Hrs
+Configure Your Nodered To Get The Weather Forecasting Data Using Http Requests
+Duration: 1 Hrs
+Configure The Nodes To Display The Weather Parameters Which We Got Form IOT Simulator And Open Weather API In UI
+Duration: 3 Hrs
+Configure The Nodes For Creating Buttons And Sending Commands To IOT Platform.
+Duration: 1 Hrs
+Configure The Nodes For Creating Buttons And Sending Commands To IOT aPltform.
+Duration: 1 Hrs
